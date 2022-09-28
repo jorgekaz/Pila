@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1663791362 source:d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tda pila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	".\pilas.h"
+
+1663791834 d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tda pila\pilas.h
+
+1663791387 source:d:\tecnicatura en programacion\2do cuatrimestre\programacion y laboratorio ii\trabajos practicos\tda pila\pilas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	".\pilas.h"
+
